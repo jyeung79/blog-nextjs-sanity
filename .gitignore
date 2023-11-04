@@ -41,4 +41,8 @@ yarn-error.log*
 
 # Env files created by scripts for working locally
 .env
+.env.*
 studio/.env.development
+
+#prevent netlify.toml
+netlify.toml
